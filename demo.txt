@@ -1,0 +1,7 @@
+https://api.openweathermap.org/data/2.5/weather?q=${cityName}&units=metric&appid=c4389738498adeb9c6c4c6bb876c1679
+
+API_KEY = b19abef383ec4e1a8e9122642240712
+
+
+weather?.forecast?.forecastday?
+
