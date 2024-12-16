@@ -1,0 +1,33 @@
+//TODO: 
+// DATE:- 10/12/2024
+// 1) Change Font of Header Title using gogole fonts. //done
+// 2) Show search bar after the header.Remove toggle functionality. // not required. 
+// 3) In Daily forecast give some gap for every day container. On clicking on each day container new screen will open and show the entire weather forecast.
+// 4) Adjust layout of (Country, city and image )container.
+// 5) Create separate component OtherStats.js for Wind,sunrise and humidity detail. //done
+// 6) Create separate component for Daily forecast details. //done
+// 7) Create Each day forecast detail component . DailyForecastCard.js  //done
+// 8) Create About component. About.js 
+
+// DATE:- 12/12/2024
+// 9) Change Sidebar styling. 
+// 10) When we clicked on Each day forecast, open screen displaying all detail.
+     //Suggestion
+// 11) Create separate component for Each OtherStats info and map for each detail // dry principle //done
+// 12) Image optimization 
+// 13) Change styling of TextInput component.
+// 14) If no relevant weather Image text corresponding to imported is available in WeatherImages object  then show cloud image.
+
+// DATE:- 13/12/2024
+// 15) Daily forecast slider also not proper. 
+// 16) Add some content for weather news.
+// 17) WeatherSlider component will display all the news .Use FlatList to display all news. 
+//     Maybe you can display top 10 news of current day. Or create See More button to laod some more news.
+// 18) On clicking on each slider of weather news Open WeatherOverview screen.
+// 19) Create Air quality section beside Weather news slider. 
+// 20) Remove searchShow state from App.js
+// 21) Add dark/light mode.
+// 22) 
+
+//  Weather stack (Use this api)
+//  https://api.weatherstack.com/current? access_key = YOUR_ACCESS_KEY&query=New York   
